@@ -3,7 +3,7 @@
 ## Works
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=lafixier&repo=wrd2txt)](https://github.com/lafixier/wrd2txt)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=lafixier&repo=fish-env-build-script)](https://github.com/lafixier/fish-build-env-script)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=lafixier&repo=fish-env-build-script)](https://github.com/lafixier/fish-env-build-script)
 
 ## Links
 
