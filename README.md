@@ -1,5 +1,11 @@
 # Lafixier.md
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/lafixier?style=social)](https://twitter.com/intent/follow?screen_name=lafixier)
+![GitHub followers](https://img.shields.io/github/followers/lafixier?style=social)
+
+[![wakatime](https://wakatime.com/badge/user/25575c52-1e36-49a7-8a4f-c044c64d7c6f.svg)](https://wakatime.com/@25575c52-1e36-49a7-8a4f-c044c64d7c6f)
+![Latest Event](https://img.shields.io/badge/dynamic/json?label=Latest%20event&query=%24%5B0%5D.created_at&url=https%3A%2F%2Fapi.github.com%2Fusers%2Flafixier%2Fevents)
+
 ## Works
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=lafixier&repo=chinort)](https://github.com/lafixier/chinort)
