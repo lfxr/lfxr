@@ -5,6 +5,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/25575c52-1e36-49a7-8a4f-c044c64d7c6f.svg)](https://wakatime.com/@25575c52-1e36-49a7-8a4f-c044c64d7c6f)
 ![Latest Event](https://img.shields.io/badge/dynamic/json?label=Latest%20event&query=%24%5B0%5D.created_at&url=https%3A%2F%2Fapi.github.com%2Fusers%2Flafixier%2Fevents)
+[![lafixier](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Flafixier)](https://atcoder.jp/users/lafixier)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=lafixier&theme=github-dark)](https://git.io/streak-stats)
 
