@@ -9,7 +9,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=lafixier&theme=github-dark)](https://git.io/streak-stats)
 
-## Works
+## Pinned Repos
 
 [![Readme Card](https://github-readme-stats-gamma-gules.vercel.app//api/pin/?theme=onedark&username=lafixier&repo=brwsng-qol)](https://github.com/lafixier/brwsng-qol)
 [![Readme Card](https://github-readme-stats-gamma-gules.vercel.app//api/pin/?theme=onedark&username=lafixier&repo=dotfiles)](https://github.com/lafixier/dotfiles)
