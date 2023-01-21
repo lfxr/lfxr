@@ -11,11 +11,11 @@
 
 ## Works
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=lafixier&repo=brwsng-qol)](https://github.com/lafixier/brwsng-qol)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=lafixier&repo=chinort)](https://github.com/lafixier/chinort)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=lafixier&repo=chinotc)](https://github.com/lafixier/chinotc)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=lafixier&repo=wrd2txt)](https://github.com/lafixier/wrd2txt)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=onedark&username=lafixier&repo=fish-env-build-script)](https://github.com/lafixier/fish-env-build-script)
+[![Readme Card](https://github-readme-stats-gamma-gules.vercel.app//api/pin/?theme=onedark&username=lafixier&repo=brwsng-qol)](https://github.com/lafixier/brwsng-qol)
+[![Readme Card](https://github-readme-stats-gamma-gules.vercel.app//api/pin/?theme=onedark&username=lafixier&repo=chinort)](https://github.com/lafixier/chinort)
+[![Readme Card](https://github-readme-stats-gamma-gules.vercel.app//api/pin/?theme=onedark&username=lafixier&repo=chinotc)](https://github.com/lafixier/chinotc)
+[![Readme Card](https://github-readme-stats-gamma-gules.vercel.app//api/pin/?theme=onedark&username=lafixier&repo=wrd2txt)](https://github.com/lafixier/wrd2txt)
+[![Readme Card](https://github-readme-stats-gamma-gules.vercel.app//api/pin/?theme=onedark&username=lafixier&repo=fish-env-build-script)](https://github.com/lafixier/fish-env-build-script)
 
 ## Links
 
@@ -31,6 +31,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lafixier&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a><img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=lafixier&theme=onedark&show_icons=ture&count_private=true" /></a>
-<a><img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lafixier&layout=compact&show_icons=true&theme=onedark" /></a>
+<a><img alt="github stats" height="150px" src="https://github-readme-stats-gamma-gules.vercel.app/api?username=lafixier&theme=onedark&show_icons=ture&count_private=true" /></a>
+<a><img alt="Top Langs" height="150px" src="https://github-readme-stats-gamma-gules.vercel.app/api/top-langs/?username=lafixier&layout=compact&show_icons=true&theme=onedark" /></a>
 <a><img alt="Top Langs" height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lafixier&theme=dracula" /></a>
