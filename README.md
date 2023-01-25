@@ -29,7 +29,7 @@
 | CTFtime | [lafixier](https://ctftime.org/team/179539)                      | dev.to   | [lafixier](https://dev.to/lafixier)        |
 
 ## Stats
-<details><summary>Stats</summary>
+<details><summary>Open/Close Stats</summary>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lafixier&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
