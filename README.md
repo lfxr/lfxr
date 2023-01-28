@@ -8,6 +8,7 @@
 [![lafixier](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Flafixier)](https://atcoder.jp/users/lafixier)
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/lafixier/lafixier/main/images/github-snake-dark.svg)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=lafixier&theme=github-dark)](https://git.io/streak-stats)
 
 ## Pinned Repos
