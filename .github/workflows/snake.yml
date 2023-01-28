@@ -22,7 +22,8 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - uses: Platane/snk@v2
+      - name: Generate snake
+        uses: Platane/snk@v2
         with:
           github_user_name: ${{ github.repository_owner }}
 
@@ -30,3 +31,12 @@ jobs:
             ${{ env.OUTPUT_DIR }}/github-snake.svg
             ${{ env.OUTPUT_DIR }}/github-snake-dark.svg?palette=github-dark
             ${{ env.OUTPUT_DIR }}/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Generate snake
+          commit_options: '--no-verify'
+          commit_user_name: GitHub Actions
+          commit_user_email: github-actions[bot]@users.noreply.github.com
+          commit_author: GitHub Actions <github-actions[bot]@users.noreply.github.com>
