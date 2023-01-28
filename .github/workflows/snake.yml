@@ -1,0 +1,32 @@
+name: generate animation
+
+on:
+  # run automatically every 12 hours
+  schedule:
+    - cron: "0 */12 * * *"
+
+  # allows to manually run the job at any time
+  workflow_dispatch:
+
+  # run on every push on the master branch
+  push:
+    branches:
+    - main
+
+env:
+  OUTPUT_DIR: images
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: Platane/snk@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+          outputs: |
+            ${{ env.OUTPUT_DIR }}/github-snake.svg
+            ${{ env.OUTPUT_DIR }}/github-snake-dark.svg?palette=github-dark
+            ${{ env.OUTPUT_DIR }}/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
