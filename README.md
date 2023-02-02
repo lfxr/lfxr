@@ -33,6 +33,8 @@
 ## Stats
 <details><summary>Open/Close Stats</summary>
 
+<br>
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=lafixier&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a><img alt="github stats" height="150px" src="https://github-readme-stats-gamma-gules.vercel.app/api?username=lafixier&theme=onedark&show_icons=ture&count_private=true" /></a>
