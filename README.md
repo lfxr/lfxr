@@ -22,6 +22,8 @@
 
 ## Links
 
+<details><summary>Open/Close Links</summary>
+
 ### Social Media
 
 | Service     | Account                                   |
@@ -55,9 +57,10 @@
 | AtCoder | [lafixier](https://atcoder.jp/users/lafixier) |                    
 | CTFtime | [lafixier](https://ctftime.org/team/179539)   |
 
+</details>
+
 ## Stats
 <details><summary>Open/Close Stats</summary>
-
 <br>
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=lafixier&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
