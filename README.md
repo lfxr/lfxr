@@ -26,12 +26,13 @@
 
 ### Social Media
 
-| Service     | Account                                   |
-| :---------- | :---------------------------------------- |
-| Twitter     | [lafixier](https://twitter.com/lafixier)  |
-| Discord     | [lafixier#1444](https://discordapp.com/users/873474894032146453)
-| Misskey.io  | [lafixier](https://misskey.io/@lafixier)  |
-| misskey.dev | [lafixier](https://misskey.dev/@lafixier) |
+| Service       | Account                                                          |
+| :------------ | :--------------------------------------------------------------- |
+| Twitter       | [lafixier](https://twitter.com/lafixier)                         |
+| Twitter (Sub) | [lfxr_](https://twitter.com/lfxr_)                               |
+| Discord       | [lafixier#1444](https://discordapp.com/users/873474894032146453) |
+| Misskey.io    | [lafixier](https://misskey.io/@lafixier)                         |
+| misskey.dev   | [lafixier](https://misskey.dev/@lafixier)                        |
 
 ### Blogs / Notes
 
