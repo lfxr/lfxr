@@ -13,8 +13,8 @@
 
 ## Pinned Repos
 
-[![Readme Card](https://github-readme-stats-gamma-gules.vercel.app/api/pin/?theme=onedark&username=lafixier&repo=aviutliem-cli)](https://github.com/lafixier/aviutliem-cli)
-[![Readme Card](https://github-readme-stats-gamma-gules.vercel.app/api/pin/?theme=onedark&username=lafixier&repo=aviutliem)](https://github.com/lafixier/aviutliem)
+<!-- [![Readme Card](https://github-readme-stats-gamma-gules.vercel.app/api/pin/?theme=onedark&username=lafixier&repo=aviutliem-cli)](https://github.com/lafixier/aviutliem-cli) -->
+<!-- [![Readme Card](https://github-readme-stats-gamma-gules.vercel.app/api/pin/?theme=onedark&username=lafixier&repo=aviutliem)](https://github.com/lafixier/aviutliem) -->
 [![Readme Card](https://github-readme-stats-gamma-gules.vercel.app/api/pin/?theme=onedark&username=lafixier&repo=katima)](https://github.com/lafixier/katima)
 [![Readme Card](https://github-readme-stats-gamma-gules.vercel.app/api/pin/?theme=onedark&username=lafixier&repo=brwsng-qol)](https://github.com/lafixier/brwsng-qol)
 [![Readme Card](https://github-readme-stats-gamma-gules.vercel.app/api/pin/?theme=onedark&username=lafixier&repo=dotfiles)](https://github.com/lafixier/dotfiles)
