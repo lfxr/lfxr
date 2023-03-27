@@ -20,6 +20,10 @@
 [![Readme Card](https://github-readme-stats-gamma-gules.vercel.app/api/pin/?theme=onedark&username=lafixier&repo=fish-env-build-script)](https://github.com/lafixier/fish-env-build-script) -->
 <!-- [![Readme Card](https://github-readme-stats-gamma-gules.vercel.app/api/pin/?theme=onedark&username=lafixier&repo=repo)](https://github.com/lafixier/repo) -->
 
+## What am I currently primarily working on?
+
+- AviUtlのツール開発 (現時点でリポジトリは非公開)
+
 ## Links
 
 <details><summary>Open/Close Links</summary>
