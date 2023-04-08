@@ -30,7 +30,7 @@
 
 ## Links
 
-<details><summary>Open/Close Links</summary>
+<details><summary>Expand/Collapse Links</summary>
 
 ### Social Media
 
@@ -70,7 +70,7 @@
 </details>
 
 ## Stats
-<details><summary>Open/Close Stats</summary>
+<details><summary>Expand/Collapse Stats</summary>
 <br>
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=lafixier&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
