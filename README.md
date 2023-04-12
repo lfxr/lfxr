@@ -26,7 +26,7 @@
 
 ## What am I currently primarily working on?
 
-- AviUtlのツール開発 (現時点でリポジトリは非公開)
+- AviUtlのツール開発 (現時点で未発表・未公開)
 
 ## Links
 
