@@ -10,9 +10,7 @@
 
 <!-- ![GitHub Contribution Snake](https://raw.githubusercontent.com/lafixier/lafixier/main/images/github-snake-dark.svg) -->
 <!-- [![Qiita Followers](https://badgen.org/img/qiita/lafixier/followers?style=social)](https://qiita.com/lafixier) -->
-<!-- [![lafixier](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Flafixier)](https://atcoder.jp/users/lafixier) -->
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=lafixier&theme=github-dark)](https://git.io/streak-stats)
+<!-- [![lafixier](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Flafixier)](https://atcoder.jp/users/lafixier) --
 
 <!-- ## Pinned Repos
 
@@ -70,9 +68,12 @@
 </details>
 
 ## Stats
+
 <details><summary>Expand/Collapse Stats</summary>
 <br>
   
+[![GitHub Streak](https://streak-stats.demolab.com?user=lafixier&theme=github-dark)](https://git.io/streak-stats)
+ 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lafixier&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a><img alt="github stats" height="150px" src="https://github-readme-stats-gamma-gules.vercel.app/api?username=lafixier&theme=onedark&show_icons=ture&count_private=true" /></a>
