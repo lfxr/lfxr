@@ -1,4 +1,4 @@
-# Lafixier Furude
+# Lafixier Rafinantoka
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/lafixier?style=social)](https://twitter.com/intent/follow?screen_name=lafixier)
 [![GitHub followers](https://img.shields.io/github/followers/lafixier?style=social)](https://github.com/lafixier)
