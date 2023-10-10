@@ -36,7 +36,6 @@
 | :------------ | :--------------------------------------------------------------- |
 | Twitter       | [lafixier](https://twitter.com/lafixier)                         |
 | Twitter (Sub) | [lfxr_](https://twitter.com/lfxr_)                               |
-| Twitter (Sub) | [lfxr_zoi](https://twitter.com/lfxr_zoi)                         |
 | Discord       | [lafixier#1444](https://discordapp.com/users/873474894032146453) |
 | Misskey.io    | [lafixier](https://misskey.io/@lafixier)                         |
 | misskey.dev   | [lafixier](https://misskey.dev/@lafixier)                        |
