@@ -24,7 +24,7 @@
 
 ## What am I primarily working on right now?
 
-- AviUtlのツール開発 (現時点で未発表・未公開)
+- CTF
 
 ## Links
 
