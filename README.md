@@ -24,7 +24,7 @@
 
 ## What am I primarily working on right now?
 
-- CTF
+- Developing a unreleased utility for AviUtl
 
 ## Links
 
