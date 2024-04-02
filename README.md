@@ -24,7 +24,7 @@
 
 ## What am I primarily working on right now?
 
-- Developing a unreleased utility for AviUtl
+- Developing an unreleased utility for AviUtl
 
 ## Links
 
