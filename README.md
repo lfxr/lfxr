@@ -64,8 +64,14 @@
 
 | Service | Account                                       |
 | :------ | :-------------------------------------------- |
-| AtCoder | [lafixier](https://atcoder.jp/users/lafixier) |                    
+| AtCoder | [lafixier](https://atcoder.jp/users/lafixier) |
 | CTFtime | [lafixier](https://ctftime.org/team/179539)   |
+
+### Others
+
+| Service | Account                                       |
+| :------ | :-------------------------------------------- |
+| Annict | [@lafixier](https://annict.com/@lafixier) |
 
 </details>
 
