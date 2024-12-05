@@ -58,7 +58,7 @@
 | :--------- | :----------------------------------------- |
 | GitHub     | [lfxr](https://github.com/lfxr)    |
 | GitLab     | [lfxr](https://gitlab.com/lfxr)    |
-| WakaTime   | [lafixier](https://wakatime.com/@lfxr) |
+| WakaTime   | [lfxr](https://wakatime.com/@lfxr) |
 
 ### Competitions
 
