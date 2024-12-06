@@ -5,7 +5,7 @@
 [![Zenn Followers](https://badgen.org/img/zenn/lafixier/followers?style=social)](https://zenn.dev/lafixier)
 
 [![wakatime](https://wakatime.com/badge/user/25575c52-1e36-49a7-8a4f-c044c64d7c6f.svg)](https://wakatime.com/@25575c52-1e36-49a7-8a4f-c044c64d7c6f)
-![Latest Event](https://img.shields.io/badge/dynamic/json?label=Latest%20event&query=%24%5B0%5D.created_at&url=https%3A%2F%2Fapi.github.com%2Fusers%2Flafixier%2Fevents)
+![Latest Event](https://img.shields.io/badge/dynamic/json?label=Latest%20event&query=%24%5B0%5D.created_at&url=https%3A%2F%2Fapi.github.com%2Fusers%2Flfxr%2Fevents)
 [![AtCoder Rating](https://badgen.org/img/atcoder/lafixier/rating/algorithm?style=flat)](https://atcoder.jp/users/lafixier?contestType=algo)
 
 <!-- ![GitHub Contribution Snake](https://raw.githubusercontent.com/lfxr/lfxr/main/images/github-snake-dark.svg) -->
