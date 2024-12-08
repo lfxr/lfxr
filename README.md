@@ -80,11 +80,11 @@
 <details><summary>Expand/Collapse Stats</summary>
 <br>
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=lafixier&theme=github-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lfxr&theme=github-dark)](https://git.io/streak-stats)
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=lafixier&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lfxr&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a><img alt="github stats" height="150px" src="https://github-readme-stats-gamma-gules.vercel.app/api?username=lafixier&theme=onedark&show_icons=ture&count_private=true" /></a>
-<a><img alt="Top Langs" height="150px" src="https://github-readme-stats-gamma-gules.vercel.app/api/top-langs/?username=lafixier&layout=compact&show_icons=true&theme=onedark" /></a>
-<a><img alt="Top Langs" height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lafixier&theme=dracula" /></a>
+<a><img alt="github stats" height="150px" src="https://github-readme-stats-gamma-gules.vercel.app/api?username=lfxr&theme=onedark&show_icons=ture&count_private=true" /></a>
+<a><img alt="Top Langs" height="150px" src="https://github-readme-stats-gamma-gules.vercel.app/api/top-langs/?username=lfxr&layout=compact&show_icons=true&theme=onedark" /></a>
+<a><img alt="Top Langs" height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lfxr&theme=dracula" /></a>
 </details>
