@@ -25,9 +25,15 @@
 <!-- > [!Caution] -->
 <!-- > Temporarily Out of Service -->
 
-[内圧育成中](https://www.youtube.com/watch?v=X6FcraeKrSM)
-
 ## What am I primarily working on right now?
+
+- [c3k](https://github.com/lfxr/c3k)
+- CTF
+
+## Articles
+
+- [【備忘録】Windows10で雑念が入らないようにする](https://zenn.dev/lafixier/articles/eliminating-distractions-caused-by-windows-10)
+- [Nim (Nimble) で依存パッケージをプロジェクトごとに分ける](https://zenn.dev/lafixier/scraps/0246cb279a9753)
 
 ## Links
 
