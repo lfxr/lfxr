@@ -32,6 +32,7 @@
 
 ## Articles
 
+- [NimでDiscord Botを作る【Dimscord】](https://zenn.dev/lafixier/articles/create-discord-bot-in-nim-using-dimscord)
 - [【備忘録】Windows10で雑念が入らないようにする](https://zenn.dev/lafixier/articles/eliminating-distractions-caused-by-windows-10)
 - [Nim (Nimble) で依存パッケージをプロジェクトごとに分ける](https://zenn.dev/lafixier/scraps/0246cb279a9753)
 
