@@ -27,7 +27,8 @@
 
 ## What am I primarily working on right now?
 
-- [c3k](https://github.com/lfxr/c3k)
+- WIP: [gasula.nim](https://github.com/lfxr/gasula-nim) - A Nim wrapper for Google Apps Script
+- WIP: [c3k](https://github.com/lfxr/c3k) - Powerful File/Dir Metadata/Data Linter
 - CTF
 
 ## Articles
