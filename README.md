@@ -25,17 +25,17 @@
 <!-- > [!Caution] -->
 <!-- > Temporarily Out of Service -->
 
-## What am I primarily working on right now?
-
-- WIP: [gasula.nim](https://github.com/lfxr/gasula-nim) - A Nim wrapper for Google Apps Script
-- WIP: [c3k](https://github.com/lfxr/c3k) - Powerful File/Dir Metadata/Data Linter
-- CTF
+## Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=aura_dark&username=lfxr&repo=gasula-nim)](https://github.com/lfxr/gasula-nim)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=aura_dark&username=lfxr&repo=c3k)](https://github.com/lfxr/c3k)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=aura_dark&username=lfxr&repo=aulrail-core)](https://github.com/lfxr/aulrail-core)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=aura_dark&username=lfxr&repo=railafter-core)](https://github.com/lfxr/railafter-core)
 
 ## Articles
 
 - [NimでDiscord Botを作る【Dimscord】](https://zenn.dev/lafixier/articles/create-discord-bot-in-nim-using-dimscord)
-- [【備忘録】Windows10で雑念が入らないようにする](https://zenn.dev/lafixier/articles/eliminating-distractions-caused-by-windows-10)
 - [Nim (Nimble) で依存パッケージをプロジェクトごとに分ける](https://zenn.dev/lafixier/scraps/0246cb279a9753)
+- [【備忘録】Windows10で雑念が入らないようにする](https://zenn.dev/lafixier/articles/eliminating-distractions-caused-by-windows-10)
 
 ## Links
 
