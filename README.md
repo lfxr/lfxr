@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,nim" />
+    <img src="https://skillicons.dev/icons?i=neovim,rust,nim" />
   </a>
 </p>
 
@@ -37,8 +37,8 @@
 
 ### WIP
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=aura_dark&username=lfxr&repo=gasula-nim)](https://github.com/lfxr/gasula-nim)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=aura_dark&username=lfxr&repo=c3k)](https://github.com/lfxr/c3k)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=aura_dark&username=lfxr&repo=gasula-nim)](https://github.com/lfxr/gasula-nim)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=aura_dark&username=lfxr&repo=katima)](https://github.com/lfxr/katima)
 
 ### Archived
